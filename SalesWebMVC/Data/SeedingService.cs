@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using SalesWebMVC.Models;
+using SalesWebMvc.Models;
+using SalesWebMvc.Models.Enums;
 
-
-namespace SalesWebMVC.Data
+namespace SalesWebMvc.Data
 {
     public class SeedingService
     {
-        private SalesWebMVCContext _context;
+        private SalesWebMvcContext _context;
 
-        public SeedingService(SalesWebMVCContext context)
+        public SeedingService(SalesWebMvcContext context)
         {
             _context = context;
         }

@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SalesWebMVC.Models;
+using SalesWebMvc.Models;
 
-namespace SalesWebMVC.Controllers
+namespace SalesWebMvc.Controllers
 {
     public class DepartmentsController : Controller
     {
-        private readonly SalesWebMVCContext _context;
+        private readonly SalesWebMvcContext _context;
 
-        public DepartmentsController(SalesWebMVCContext context)
+        public DepartmentsController(SalesWebMvcContext context)
         {
             _context = context;
         }

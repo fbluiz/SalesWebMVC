@@ -1,9 +1,8 @@
-﻿using SalesWebMvc.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SalesWebMVC.Models
+namespace SalesWebMvc.Models
 {
     public class Department
     {
@@ -30,5 +29,5 @@ namespace SalesWebMVC.Models
         {
             return Sellers.Sum(seller => seller.TotalSales(initial, final));
         }
-     }
+    }
 }
