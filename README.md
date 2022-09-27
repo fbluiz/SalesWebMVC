@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Vídeo rodando projeto e mostrando as funcionalidades : 
+Vídeo rodando o projeto e mostrando as funcionalidades : 
 
 A aplicação consiste em um sistema onde é possível adicionar vendedores em cada um dos Departamentos de um modelo de négocio,
 e buscar o total em vendas de cada departamento em um periódo dado pelo usuário , detalhando quem foi o vendedor que fez cada uma das vendas.
