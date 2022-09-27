@@ -15,7 +15,7 @@ e buscar o total em vendas de cada departamento em um periódo dado pelo usuári
 # Tecnologias utilizadas
 - ASP.NET
 - Entity Framework
-- C#!
+- C#
 
 ## Front end
 - Bootstrap
