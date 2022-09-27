@@ -13,7 +13,7 @@ e buscar o total em vendas de cada departamento em um periódo dado pelo usuári
 ![alt text](https://user-images.githubusercontent.com/96392802/192542631-4fbbd55f-874f-4281-a242-4a7f6a04101c.png)
 
 # Tecnologias utilizadas
-- ASP.NET
+- ASP.NET Core
 - Entity Framework
 - C#
 
