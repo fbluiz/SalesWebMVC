@@ -21,7 +21,7 @@ e buscar o total em vendas de cada departamento em um periódo dado pelo usuári
 - Bootstrap
 - Razor
 ## Implantação em produção
-- Banco de dados: MySql
+- Banco de dados: MySQL
 
 # Autor
 
